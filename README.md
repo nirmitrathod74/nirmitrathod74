@@ -1,6 +1,6 @@
 ```md
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/nirmitrathod74/nirmitrathod74/main/banner.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nirmit Rathod</h1>
@@ -120,18 +120,21 @@ Full-stack LMS platform built using Django with authentication, course managemen
 
 <p align="left">
 
-<!-- Add Your Social Links Here -->
 
-<!-- Example -->
-<!--
+
+
 <a href="https://linkedin.com/in/yourusername">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
--->
+
+
+<a href="rnirmitmr74.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+
+<a href="https://github.com/nirmitrathod74"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
 </p>
 
----
+
 
 # 💡 Quote
 
