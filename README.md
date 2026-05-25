@@ -3,11 +3,6 @@
   <img src="https://raw.githubusercontent.com/nirmitrathod74/nirmitrathod74/main/banner.png" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Nirmit Rathod</h1>
-
-<h3 align="center">
-🚀 Full Stack Developer
-</h3>
 
 <p align="center">
 Passionate about building modern, scalable, and user-friendly web applications using modern frontend and backend technologies.
@@ -28,22 +23,21 @@ Passionate about building modern, scalable, and user-friendly web applications u
 # 🛠️ Tech Stack
 
 ## 🎨 Frontend
-React • Next.js • HTML • CSS • JavaScript • Tailwind CSS • Bootstrap
+React | Next.js | HTML | CSS | JavaScript | Tailwind CSS | Bootstrap
 
----
 
 ## ⚙️ Backend
-Python • Django • PHP
+Python | Django | PHP
 
  
 
 ## 🗄️ Database
-MySQL • PostgreSQL • MongoDB
+MySQL | PostgreSQL | MongoDB
 
  
 
 ## 🧰 Tools & Platforms
-VS Code • Git • GitHub • Postman
+VS Code | Git |  GitHub  
  
 
 
@@ -77,11 +71,6 @@ Full-stack LMS platform built using Django with authentication, course managemen
 - Django
 - Python
 - MySQL
-
- 
-# 🌐 Connect With Me
-
-<p align="left">
 
  
 
