@@ -24,39 +24,28 @@ Passionate about building modern, scalable, and user-friendly web applications u
 
  
 
+ 
 # 🛠️ Tech Stack
 
 ## 🎨 Frontend
+React • Next.js • HTML • CSS • JavaScript • Tailwind CSS • Bootstrap
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,tailwind,bootstrap" />
-</p>
-
- 
+---
 
 ## ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,php" />
-</p>
+Python • Django • PHP
 
  
 
 ## 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+MySQL • PostgreSQL • MongoDB
 
  
 
 ## 🧰 Tools & Platforms
+VS Code • Git • GitHub • Postman
+ 
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
-</p>
-
----
 
 # 🚀 Featured Projects
 
@@ -94,19 +83,16 @@ Full-stack LMS platform built using Django with authentication, course managemen
 
 <p align="left">
 
-<a href="mailto:yourmail@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+ 
 
-<a href="https://github.com/nirmitrathod74">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+ 
+# 🌐 Connect With Me
 
-<a href="https://linkedin.com/in/yourusername">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+- GitHub: https://github.com/nirmitrathod74
+- LinkedIn: www.linkedin.com/in/nirmit-rathod74
+- Email:rnirmitmr74@gmail.com
+ 
 
-</p>
 
  
 
