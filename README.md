@@ -1,4 +1,4 @@
-```md
+ 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nirmitrathod74/nirmitrathod74/main/banner.png" />
 </p>
@@ -13,7 +13,7 @@
 Passionate about building modern, scalable, and user-friendly web applications using modern frontend and backend technologies.
 </p>
 
----
+ 
 
 # 🧑‍💻 About Me
 
@@ -22,8 +22,7 @@ Passionate about building modern, scalable, and user-friendly web applications u
 - 🎯 Focused on clean UI and performance
 - 📚 Learning advanced web development concepts
 
-
----
+ 
 
 # 🛠️ Tech Stack
 
@@ -33,7 +32,7 @@ Passionate about building modern, scalable, and user-friendly web applications u
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,tailwind,bootstrap" />
 </p>
 
----
+ 
 
 ## ⚙️ Backend
 
@@ -41,7 +40,7 @@ Passionate about building modern, scalable, and user-friendly web applications u
   <img src="https://skillicons.dev/icons?i=python,django,php" />
 </p>
 
----
+ 
 
 ## 🗄️ Database
 
@@ -49,7 +48,7 @@ Passionate about building modern, scalable, and user-friendly web applications u
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
----
+ 
 
 ## 🧰 Tools & Platforms
 
@@ -69,10 +68,7 @@ Modern weather forecasting application built using React with responsive UI and 
 - React
 - Tailwind CSS
 - Weather API
-
-🔗 Add Project Link Here
-
----
+ 
 
 ## 🛒 E-Commerce Website
 
@@ -81,11 +77,8 @@ Responsive e-commerce frontend with clean UI, product layouts, and optimized use
 ### ⚡ Tech Used
 - React
 - JavaScript
-- Tailwind CSS
-
-🔗 Add Project Link Here
-
----
+- Tailwind CS
+ 
 
 ## 📚 Learning Management System
 
@@ -96,49 +89,30 @@ Full-stack LMS platform built using Django with authentication, course managemen
 - Python
 - MySQL
 
-🔗 Add Project Link Here
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
+ 
 # 🌐 Connect With Me
 
 <p align="left">
 
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-
+<a href="https://github.com/nirmitrathod74">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <a href="https://linkedin.com/in/yourusername">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-
-<a href="rnirmitmr74.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-
-<a href="https://github.com/nirmitrathod74"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
-
 </p>
 
-
+ 
 
 # 💡 Quote
 
 <p align="center">
   💻 Keep Building • Keep Learning • Keep Growing 🚀
 </p>
-```
+ 
