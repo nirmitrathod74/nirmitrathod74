@@ -43,14 +43,20 @@ VS Code | Git |  GitHub
 
 # 🚀 Featured Projects
 
-## 🌦️ Weather App
+# 🌍 Atmos | Premium Weather Dashboard
 
-Modern weather forecasting application built using React with responsive UI and real-time weather data.
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-### ⚡ Tech Used
-- React
-- Tailwind CSS
-- Weather API
+## 🔗 Live Demo
+
+https://atmos-weather-brown.vercel.app/
+
+---
+
+Atmos is a premium, production-ready weather dashboard built with React and Vite.
  
 
 ## 🛒 E-Commerce Website
